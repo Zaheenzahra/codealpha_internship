@@ -16,6 +16,9 @@ Features:
 
 Task 2 : Login and Registration System in C++
 
+Description:
+
+This file contains a comprehensive login and registration system implemented in C++. The system allows users to register with a unique username and password, and then log in to access authorized features.
 Features:
 
 - User registration with password hashing
